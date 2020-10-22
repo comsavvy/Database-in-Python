@@ -1,0 +1,7 @@
+.idea/
+.ipynb_checkpoints/
+Lib/  
+Scripts/
+__pycache__/                                                                                                            
+employee.db   
+pyvenv.cfg
